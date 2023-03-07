@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am a highly driven engineer with 8+ years of professional C++ Software Development experience with a deep passion for Computer Graphics
+
+🖖 I’m currently learning Vulkan
+
+[LinkedIn](https://www.linkedin.com/in/rajdeepkonwar/)
+
+| [![Rajdeep's Github Stats](https://github-readme-stats.vercel.app/api?username=RajdeepKonwar&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/RajdeepKonwar) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajdeepKonwar&layout=compact&langs_count=3&theme=dark)](https://github.com/RajdeepKonwar) |
+|---|---|
+
 <!--
 **RajdeepKonwar/RajdeepKonwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
