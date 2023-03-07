@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a highly driven engineer with 8+ years of professional C++ Software Development experience with a deep passion for Computer Graphics
+I am a highly driven engineer with 8+ years of professional C++ software development with a burning passion for Computer Graphics
 
 🖖 I’m currently learning Vulkan
 
