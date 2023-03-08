@@ -4,8 +4,6 @@ I am a highly driven engineer with 9+ years of professional C++ software develop
 
 🖖 I’m currently learning Vulkan
 
-[LinkedIn](https://www.linkedin.com/in/rajdeepkonwar/)
-
 | [![Rajdeep's Github Stats](https://github-readme-stats.vercel.app/api?username=RajdeepKonwar&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/RajdeepKonwar) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajdeepKonwar&layout=compact&langs_count=3&theme=dark)](https://github.com/RajdeepKonwar) |
 |---|---|
 
